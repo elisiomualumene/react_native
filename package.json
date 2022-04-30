@@ -1,0 +1,9 @@
+{
+  "name": "react_native",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/elisiomualumene/react_native.git",
+  "author": "elisiomualumene <elisiomualumene@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
