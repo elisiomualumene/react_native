@@ -6,7 +6,7 @@ import {styles} from './GlobalStyle'
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>OK</Text>
+      <Text>Minha Primeira Aplicaçao com ReactNative</Text>
       <StatusBar style="auto" />
     </View>
   );
